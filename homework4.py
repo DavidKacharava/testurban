@@ -1,4 +1,5 @@
 my_string = input('Введите ваше имя и фамилию:')
+print("Длина введенного текста:", len(my_string))
 print(my_string. upper())
 print(my_string. lower())
 print(my_string.replace(" ", ""))
